@@ -1,0 +1,15 @@
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/bin/Debug/net7.0/TextEditor
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/educacional/Documentos/dotnet/csharp-studies/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
