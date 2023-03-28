@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rOOXC49TR/cia5XQoNp8T5uLUf7F2OjB35aJokLBdNGvm6eZfVS8yEOQzalty9RBVVGsz9+eVNKf6vZriQ0S9A==",
+  "dgSpecHash": "cz1JeEmF9XGRSmabetFk5b2s1rri3DisZBLIPb/kUFra9A3/CYWxQg3WJgKBCObWBmPA83ONRBl1ICYRtY7UDA==",
   "success": true,
-  "projectFilePath": "/home/educacional/Documentos/dotnet/Stopwatch/Stopwatch.csproj",
+  "projectFilePath": "/home/educacional/Documentos/dotnet/csharp-studies/Stopwatch/Stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

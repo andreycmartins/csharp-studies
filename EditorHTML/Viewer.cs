@@ -1,7 +1,7 @@
 using System.Text.RegularExpressions;
 
 public class Viewer {
-    
+        
     public static void Show(string text)
     {
         Console.Clear();
@@ -13,7 +13,7 @@ public class Viewer {
         Replace(text);
         Console.WriteLine("-----------------");
         Console.ReadKey();
-        Menu.Show(); 
+        Menu.Show();   
     }
 
     public static void Replace(string text)
