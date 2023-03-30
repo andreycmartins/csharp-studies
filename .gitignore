@@ -1,5 +1,2 @@
-/SQL/bin
-/Calculator/bin
-/EditorHTML/bin
-/Stopwatch/bin
-/TextEditor/bin
+*/bin/
+*/obj/
